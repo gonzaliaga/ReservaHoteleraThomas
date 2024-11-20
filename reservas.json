@@ -1,0 +1,43 @@
+
+[
+{
+    "arrivalDate": "2024-06-16",
+    "departureDate": "2024-06-20",
+    "nameHotel": "Hotel Templarios",
+    "typeRoom": "Double",
+    "passengers": 2,
+    "name": "John Doe",
+    "mail": "john.doe@example.com",
+    "paymentStatus": "Paid"
+},
+{
+    "arrivalDate": "2024-12-24",
+    "departureDate": "2024-12-29",
+    "nameHotel": "Hotel Uman House",
+    "typeRoom": "Double",
+    "passengers": 2,
+    "name": "Chris Cornell",
+    "mail": "C.cornell@example.com",
+    "paymentStatus": "Paid"
+},
+{
+    "arrivalDate": "2024-12-12",
+    "departureDate": "2024-12-16",
+    "nameHotel": "Hotel Jaguar",
+    "typeRoom": "suite vip",
+    "passengers": 2,
+    "name": "Kurt Cobain",
+    "mail": "K.cobain@example.com",
+    "paymentStatus": "Paid"
+},
+{
+    "arrivalDate": "2024-12-03",
+    "departureDate": "2024-12-06",
+    "nameHotel": "Hotel Hyatt",
+    "typeRoom": "single",
+    "passengers": 1,
+    "name": "Jim Morrison",
+    "mail": "J.Morrison@example.com",
+    "paymentStatus": "Paid"
+}
+]
